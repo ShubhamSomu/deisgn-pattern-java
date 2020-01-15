@@ -7,6 +7,7 @@ public abstract class HouseTemplate {
 		makePillars();
 		buildWindows();
 		buildRoof();
+		System.out.println("***************House is built************************");
 	}
 
 	protected abstract void buildWindows();
