@@ -10,7 +10,7 @@ public class ChatMediatorImpl implements ChatMediatorQueue{
 
 	private List<User> userList;
 	
-	ChatMediatorImpl(){
+	public ChatMediatorImpl(){
 		this.userList = new ArrayList<User>();
 	}
 	@Override

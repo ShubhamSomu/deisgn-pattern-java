@@ -1,5 +1,7 @@
-package com.designpattern.behavioral.mediatorpattern.impl;
+package com.designpattern.behavioral.mediatorpattern;
 
+import com.designpattern.behavioral.mediatorpattern.impl.ChatMediatorImpl;
+import com.designpattern.behavioral.mediatorpattern.impl.UserImpl;
 import com.designpattern.behavioral.mediatorpattern.model.ChatMediatorQueue;
 import com.designpattern.behavioral.mediatorpattern.model.User;
 /**
