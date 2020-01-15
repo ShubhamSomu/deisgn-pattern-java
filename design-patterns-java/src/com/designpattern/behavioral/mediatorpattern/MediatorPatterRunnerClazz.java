@@ -2,7 +2,11 @@ package com.designpattern.behavioral.mediatorpattern.impl;
 
 import com.designpattern.behavioral.mediatorpattern.model.ChatMediatorQueue;
 import com.designpattern.behavioral.mediatorpattern.model.User;
-
+/**
+ * JMS, Executor execute(), schedule()
+ * @author java-supadhay
+ *
+ */
 public class MediatorPatterRunnerClazz {
 
 	public static void main(String [] args) {
