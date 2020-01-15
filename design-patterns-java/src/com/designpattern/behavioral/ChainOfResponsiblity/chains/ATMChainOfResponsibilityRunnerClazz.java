@@ -4,7 +4,11 @@ import java.util.Scanner;
 
 import com.designpattern.behavioral.ChainOfResponsiblity.model.Currency;
 import com.designpattern.behavioral.ChainOfResponsiblity.model.DispenseChain;
-
+/**
+ * javax filter , java util logging log uses them
+ * @author java-supadhay
+ *
+ */
 public class ATMChainOfResponsibilityRunnerClazz {
 // This is same as a ATM interface
 	
